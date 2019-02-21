@@ -4,7 +4,8 @@ import VueAxios from 'vue-axios';
 
 const config = require('./config');
 Vue.use(VueAxios,axios);
+
 const Axios = axios.create({
-    baseURL: config.UrlRestApi,
+    baseURL: config.UrlRestApi
 });
 export default Axios;

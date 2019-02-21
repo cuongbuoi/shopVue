@@ -1,0 +1,8 @@
+{
+    "BaseUrl": "localhost:8080/",
+    "BaseUrlApi":"http://shopapi.net/",
+    "UrlImageBlog": "http://shopapi.net/public/upload/images/thumb_baiviet/",
+    "UrlImageProduct": "http://shopapi.net/public/upload/images/thumb_hinhsanpham/",
+    "UrlRestApi":"http://shopapi.net/api",
+    "WebsiteName":"Shop Api"
+}

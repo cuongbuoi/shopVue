@@ -950,7 +950,7 @@ input:focus {
 
 .main-panel .content {
     padding: 30px 15px;
-    min-height: calc(100vh - 123px);
+    min-height: calc(100vh - 61px);
 }
 
 .main-panel .footer {
